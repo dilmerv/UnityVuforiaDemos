@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GroundPlane.unity
     guid: 408a286c96db83849b97eedce38b0beb
+  - enabled: 0
+    path: Assets/Scenes/MidAir.unity
+    guid: bbc2738b5f44f1044aed7c1464d861a9
   m_configObjects: {}
